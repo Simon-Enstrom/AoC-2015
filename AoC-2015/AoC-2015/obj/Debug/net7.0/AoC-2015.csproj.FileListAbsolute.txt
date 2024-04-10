@@ -1,0 +1,15 @@
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\bin\Debug\net7.0\AoC-2015.exe
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\bin\Debug\net7.0\AoC-2015.deps.json
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\bin\Debug\net7.0\AoC-2015.runtimeconfig.json
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\bin\Debug\net7.0\AoC-2015.dll
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\bin\Debug\net7.0\AoC-2015.pdb
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\obj\Debug\net7.0\AoC-2015.csproj.AssemblyReference.cache
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\obj\Debug\net7.0\AoC-2015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\obj\Debug\net7.0\AoC-2015.AssemblyInfoInputs.cache
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\obj\Debug\net7.0\AoC-2015.AssemblyInfo.cs
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\obj\Debug\net7.0\AoC-2015.csproj.CoreCompileInputs.cache
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\obj\Debug\net7.0\AoC-2015.dll
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\obj\Debug\net7.0\refint\AoC-2015.dll
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\obj\Debug\net7.0\AoC-2015.pdb
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\obj\Debug\net7.0\AoC-2015.genruntimeconfig.cache
+C:\Users\Simon\OneDrive\Documents\Code\AoC\AoC-2015\AoC-2015\obj\Debug\net7.0\ref\AoC-2015.dll
