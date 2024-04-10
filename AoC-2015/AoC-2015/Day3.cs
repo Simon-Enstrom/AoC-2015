@@ -47,6 +47,7 @@
                     coordinatesVisited.Add(new Coordinate() { X = currentRobotCoordinate.X, Y = currentRobotCoordinate.Y });
                 }
             }
+
             var distinctItems = coordinatesVisited.DistinctBy(x => new { x.X, x.Y }).ToList();
             Console.WriteLine($"Houses visited next year {distinctItems.Count()}");
         }

@@ -8,6 +8,12 @@
             PartTwo(puzzelInput);
         }
 
+        public class TrackingSanta
+        {
+            public int FloorLocation { get; set; }
+            public int NumberOfMovements { get; set; }
+        }
+
         private static void PartOne(string puzzelInput)
         {
             int floorThatSantaIsOn = 0;
@@ -24,12 +30,6 @@
             }
 
             Console.WriteLine($"Santa is on floor {floorThatSantaIsOn}");
-        }
-
-        public class TrackingSanta
-        {
-            public int FloorLocation { get; set; }
-            public int NumberOfMovements { get; set; }
         }
 
         private static void PartTwo(string puzzelInput)
